@@ -1,5 +1,5 @@
 # Property-Dealer-Chatbot
-I want to create project on father occupation property dealer chatbot
+A digital profile of my father, built as an interactive Python chatbot.
 # Conversational-Agent
 
 A Python-powered conversational interface designed to model the profile of Muhammad Shahid. This project focuses on human-centric data mapping using conditional logic and keyword-based response routing.
